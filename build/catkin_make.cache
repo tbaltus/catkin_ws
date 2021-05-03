@@ -1,0 +1,2 @@
+franka_ros/franka_control:franka_ros/franka_description:franka_ros/franka_example_controllers:franka_ros/franka_gripper:franka_ros/franka_hw:franka_ros/franka_msgs:franka_ros/franka_ros:franka_ros/franka_visualization:omega_ros:panda_moveit_config:phidget_ros:ros_falcon
+-DCATKIN_DEVEL_PREFIX=/home/terry/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/terry/catkin_ws/install -G Unix Makefiles

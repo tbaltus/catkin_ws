@@ -1,0 +1,8 @@
+prefix=/home/terry/catkin_ws/devel
+
+Name: omega_ros
+Description: Description of omega_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
